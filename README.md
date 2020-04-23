@@ -140,3 +140,7 @@ You should get :
 
 # Credits
 Routing based on FazTech rest api 
+
+
+# Deploying on Kubernetes and testing using External IP Address
+
